@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+nav{
+	font-family: "open-sans", Opens Sans, sans-serif;
+	line-height: 1.5;
+	color: #A5D06E;
+	font-size: 62.5%; /* gambiarra */
+	font-weight: 800;
+}
+
+body{
+	font-family: "open-sans", Opens Sans, sans-serif;
+}
+
+.participante{
+	width: 60px;
+}
+
+.simbolos{
+	width: 97px;
+	height: 97px;
+	margin-bottom: 50px;
+}
+
+.tela1{
+	
+}
+
+.celularapp{
+	width: 185px;
+	height: 185;
+	margin-right: 50px;
+}
+
+.tela2{
+	background-color: #A5D06E;
+	color: #FFFFFF;
+	height: 627px;
+}
+
+.mockup{
+	height: 313px;
+	
+}
+
+.mockupaltura{
+	height: 627px;
+}
+
+
+
+.tela4{
+	background-color: #A5D06E;
+	color: #FFFFFF;
+	
+}
+
+
+footer{
+	text-align: center;
+	margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
